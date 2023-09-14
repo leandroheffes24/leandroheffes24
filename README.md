@@ -1,4 +1,4 @@
-## Leandro Heffes | Full Stack Developer 👋
+## Leandro Heffes | Full Stack Web Developer 👋
 
 #### ✨ Certificado en desarrollo web en Coder House.
 #### 📚 Estudiante de desarrollo web full stack en Digital House.
