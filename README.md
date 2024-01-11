@@ -1,6 +1,6 @@
 ## Leandro Heffes | Full Stack Web Developer 👋
 
-#### ✨ Certificado en desarrollo web en Coder House.
+#### ✨ Certificado Desarrollo Web Full Stack en Digital House y en Desarrollo Web en Coder House.
 #### 📚 Estudiante de desarrollo web full stack en Digital House.
 #### 🧑🏻‍💻 Trabajando en un proyecto grupal =====> 👕 Ecomerce de ropa 👕
 #### 💪 Lenguajes: HTML5/CSS3 - Javascript
