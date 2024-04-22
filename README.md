@@ -1,5 +1,5 @@
-# Hi, I'm Leandro Heffes
-## Full stack web developer 💻
+# 👋 Hi, I'm Leandro Heffes
+## 💻 Full stack web developer
 
 🔭 Looking for my first professional experience in a company or project.
 💪 Strong front-end orientation.
