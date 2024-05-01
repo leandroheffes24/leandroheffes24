@@ -7,7 +7,7 @@
 
 - 👯 I am looking to work on **a professional project or company**
 
-- 👨‍💻 All of my projects are available at [leandroheffesportfolio.vercel.app](leandroheffesportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [leandroheffesportfolio.vercel.app](https://leandroheffesportfolio.vercel.app/)
 
 - 📫 How to reach me **leandroheffes2408@gmail.com**
 
