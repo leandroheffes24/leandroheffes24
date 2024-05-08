@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Heffes</h1>
 <h3 align="center">A web developer with front-end orientation</h3>
 
-- 🔭 I’m currently working on [my new portfolio](https://github.com/leandroheffes24/thunder-ecommerce.git)
+- 🔭 I’m currently working on [Thunder⚡](https://github.com/leandroheffes24/thunder-ecommerce.git)
 
 - 🌱 I’m currently learning **Next.js**
 
