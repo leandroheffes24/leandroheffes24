@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Heffes</h1>
 <h3 align="center">A web developer with front-end orientation</h3>
 
-- 🔭 I’m currently working on [Football e-commerce⚽]((https://github.com/leandroheffes24/futbol-ecommerce.git))
+- 🔭 I’m currently working on [Football e-commerce⚽](https://github.com/leandroheffes24/futbol-ecommerce.git)
 
 - 🌱 I’m currently learning **Next.js**
 
