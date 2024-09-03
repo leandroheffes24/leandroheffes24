@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Leandro Heffes</h1>
 <h3 align="center">A web developer with front-end orientation</h3>
 
-- 🔭 I’m currently working on [my new portfolio💼](https://github.com/leandroheffes24/new-portfolio)
+- 🔭 I’m currently working on [Künverclau💼](https://github.com/leandroheffes24/k-nverclau)
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I am looking to work on **a professional project or company**
 
-- 👨‍💻 All of my projects are available at [leandroheffes.com.ar](https://leandroheffes.com.ar)
+- 👨‍💻 All of my projects are available at [my portfolio](https://leandroheffes.com.ar)
 
 - 📫 How to reach me **leandroheffes2408@gmail.com**
 
