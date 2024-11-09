@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Heffes</h1>
 <h3 align="center">A web developer with front-end orientation</h3>
 
-- 🔭 I’m currently working on [Bytear💻](https://github.com/leandroheffes24/bytear) and [Picaditas De Butarfa🥓](https://github.com/leandroheffes24/picaditas-de-butarfa)
+- 🔭 I’m currently working on [Bytear💻](https://github.com/leandroheffes24/bytear).
 
 - 🌱 I’m currently learning **Next.js**
 
