@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mi Primer Trabajo💼](https://github.com/leandroheffes24/mi-primer-trabajo.git).
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👯 I am looking to work on **a professional project or company**
 
